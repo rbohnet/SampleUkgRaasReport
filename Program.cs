@@ -2,6 +2,8 @@
 using BiDataServicesParametersSample.BiStreamingService;
 using System;
 using System.IO;
+using System.ServiceModel;
+using System.ServiceModel.Channels;
 using System.Threading.Tasks;
 using CommandLine;
 
